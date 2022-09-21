@@ -1,9 +1,9 @@
 class Plumbus < Formula
   desc "Copy command output to your clipboard"
   homepage "https://github.com/Radical-Egg/plumbus"
-  url "https://github.com/Radical-Egg/plumbus/releases/download/plumbus-1.0.4-1/plumbus-mac.tar.gz"
-  sha256 "3f85324098260e23c449047c332de80e817ca4cf2030e34229aff73d896420a7"
-  version "1.0.4"
+  url "https://github.com/Radical-Egg/plumbus/releases/download/plumbus-1.0.5-1/plumbus-mac.tar.gz"
+  sha256 "f15f6a30ac4b0f25bd6f2343548732852f6472aea9c5bf9b429e7e535501258a"
+  version "1.0.5"
 
   def install
     bin.install "plumbus"
